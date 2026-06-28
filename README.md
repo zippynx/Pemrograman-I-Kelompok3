@@ -7,10 +7,12 @@
 
 Aplikasi desktop berbasis **Java Swing** untuk membantu mahasiswa mengelola data mahasiswa, mata kuliah, tugas, serta notifikasi pengingat dalam satu sistem yang terintegrasi menggunakan **MySQL**.
 
-> **Proyek Akhir Mata Kuliah Pemrograman I**  
-> **Kelompok 3 — 04TPLP008** 
-> **Universitas: Universitas Pamulang (UNPAM)**
-> **Dosen Pengampu: Niki Ratama, S.Kom., M.Kom.** 
+| Informasi | Keterangan |
+|-----------|------------|
+| Mata Kuliah | Pemrograman I |
+| Kelompok | 3 — 04TPLP008 |
+| Universitas | Universitas Pamulang (UNPAM) |
+| Dosen Pengampu | Niki Ratama, S.Kom., M.Kom. |
 ---
 
 ## 📖 Deskripsi
