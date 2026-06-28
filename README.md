@@ -8,8 +8,9 @@
 Aplikasi desktop berbasis **Java Swing** untuk membantu mahasiswa mengelola data mahasiswa, mata kuliah, tugas, serta notifikasi pengingat dalam satu sistem yang terintegrasi menggunakan **MySQL**.
 
 > **Proyek Akhir Mata Kuliah Pemrograman I**  
-> **Kelompok 3 — Universitas Pamulang**
-
+> **Kelompok 3 — 04TPLP008** 
+> **Universitas: Universitas Pamulang (UNPAM)**
+> **Dosen Pengampu: Niki Ratama, S.Kom., M.Kom.** 
 ---
 
 ## 📖 Deskripsi
@@ -165,8 +166,8 @@ Buka project menggunakan **Apache NetBeans**, kemudian jalankan salah satu modul
 | Nama | NIM |
 |------|------|
 | M. Aziep Musafira | 241011400336 |
-| Mohammad Ariq Arrahman Sudrajat | 241011400352 |
 | Raihan Al Amin | 241011401546 |
+| Mohammad Ariq Arrahman Sudrajat | 241011400352 |
 | Nabilah Putri Ramadhan | 241011400350 |
 | Nazla Hana Wahyudi | 241011401657 |
 
